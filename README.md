@@ -1,0 +1,1 @@
+# flutter_amap_location_3.0.0
